@@ -6,7 +6,7 @@ public class Biodata {
   
       
       Scanner input_bio=new Scanner (System.in);
-        System.out.println("Biodata Ta'imir Masjid");
+        System.out.println("Biodata Ta'imir Masjid push kedua ");
         System.out.println("----------------");
      
       
