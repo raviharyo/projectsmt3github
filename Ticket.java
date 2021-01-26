@@ -1,12 +1,12 @@
 import java.util.Scanner;
 
-public class Biodata {
+public class Ticket {
 
     public static void main(String[] args) {
   
       
       Scanner input_bio=new Scanner (System.in);
-        System.out.println("Biodata Ta'imir Masjid push ketiga check otomatis");
+        System.out.println("Ticket Ta'imir Masjid push ketiga check otomatis");
         System.out.println("----------------");
      
       
