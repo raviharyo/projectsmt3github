@@ -4,14 +4,14 @@ public class Ticket {
 
     public static void main(String[] args) {
   
-      
+      //input for ticketing
       Scanner input_bio=new Scanner (System.in);
         System.out.println("Ticket Ta'imir Masjid push ketiga check otomatis");
         System.out.println("----------------");
      
       
         
-      
+      //output list of invitation
       System.out.println("Nama = Ravi Haryo Baskoro & Laksamana Zaidan");
       System.out.println("Nim = 1920010195");
         System.out.println("Kelas = 3SC5");
@@ -25,6 +25,7 @@ public class Ticket {
 	System.out.println("Tempat = Masjid UI");
 	System.out.println("Nomor Tempat Duduk = 001-002");
 	System.out.println("Tema Seminar = pentingnya ilmu agama dalam penerapan kehidupan");
+	    
 //        Scanner input= new Scanner(System.in);
 //
 //        int panjang, lebar, luas;
