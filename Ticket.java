@@ -25,20 +25,6 @@ public class Ticket {
 	System.out.println("Tempat = Masjid UI");
 	System.out.println("Nomor Tempat Duduk = 001-002");
 	System.out.println("Tema Seminar = pentingnya ilmu agama dalam penerapan kehidupan");
-//        Scanner input= new Scanner(System.in);
-//
-//        int panjang, lebar, luas;
-//      
-//        System.out.println("PROGRAM JAVA MENGHITUNG LUAS PERSEGI PANJANG : ");
-//        System.out.println("-----------------------------------------------");
-//
-//        System.out.print("Masukan Panjang      : ");
-//        panjang=input.nextInt();
-//        System.out.print("Masukan Lebar        : ");
-//        lebar=input.nextInt();
-//        
-//        luas=panjang*lebar;
-//
-//        System.out.println("Luas Persegi Panjang : "+luas);
+
     }
     }
